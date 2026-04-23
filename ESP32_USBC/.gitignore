@@ -1,0 +1,20 @@
+# Altium Designer
+*.OutJob
+*.Outputs
+Project Outputs for*
+History/*
+*.SchDocPreview
+*.PcbDocPreview
+*.bak
+*.log
+
+# Autosave / temp
+__Previews/
+*.PrjPcbStructure
+*.DsnWrk
+*.Zip
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
