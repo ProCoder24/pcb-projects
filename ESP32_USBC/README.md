@@ -142,8 +142,3 @@ ESP32_USBC/
 * openEMS
 
 ---
-
-## Author
-
-Jean Ombeni
-Electrical Engineering
