@@ -6,10 +6,6 @@ Custom ESP32-S3-MINI development board designed for dual USB-C connectivity, fle
 
 This board supports both traditional UART-based programming and native USB operation, enabling advanced use cases such as JTAG debugging, USB HID devices, and OTG applications.
 
-
-
-
-
 ---
 
 ## Design Preview
