@@ -146,4 +146,4 @@ ESP32_USBC/
 ## Author
 
 Jean Ombeni
-Electrical Engineering – Université de Sherbrooke
+Electrical Engineering
