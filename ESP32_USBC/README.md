@@ -124,12 +124,6 @@ ESP32_USBC/
 
 ---
 
-## Status
-
-🚧 Work in progress (initial frozen revision)
-
----
-
 ## Design Highlights
 
 * Dual USB architecture (UART + Native USB)
